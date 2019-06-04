@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Quick-Install-brightgreen.svg">](https://dev.try.direct/deploy/hjdshfjdfjd)
 [This is a relative link to a nested file](project/settings.py)
 
-[![pipeline status](project/settings.pyg)](/../../../)[text]
+[![pipeline status](project/settings.pyg)](/../../../)[text](https://dev.try.direct/)
 
 %{default_branch}
 

@@ -5,7 +5,7 @@
 
 [![pipeline status](https://dev.try.direct/)(project/settings.pyg)](/../)
 
-
+%{default_branch}
 
 
 [![coverage report](/../badges/develop/coverage.svg)](/../)

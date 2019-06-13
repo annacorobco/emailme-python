@@ -9,6 +9,11 @@
 %{default_branch}
 
 
+
+
+<img src="https://dev.try.direct/img/main_logo.png">
+
+
 [![coverage report](/../badges/develop/coverage.svg)](/../)
 
 * [relative]({{ repository.html_url }})

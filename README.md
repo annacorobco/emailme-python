@@ -15,7 +15,7 @@
 
 
 [<img src="https://dev.try.direct/img/main_logo.png">](https://dev.try.direct/deploy/)
-
+[<img src="https://s.cdpn.io/3/kiwi.svg">](https://dev.try.direct/deploy/)
 
 [![coverage report](/../badges/develop/coverage.svg)](/../)
 

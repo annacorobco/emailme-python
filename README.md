@@ -1,6 +1,9 @@
 # emailme-python
 
-[<img src="https://img.shields.io/badge/Quick-Install-brightgreen.svg">](https://dev.try.direct/deploy/(project/settings.pyg)](/../../../))
+[<img src="https://img.shields.io/badge/Quick-Install-brightgreen.svg">](https://dev.try.direct/deploy/(project/settings.pyg)
+
+
+
 [This is a relative link to a nested file](project/settings.py)
 [This is a relative link to a nested file](https://dev.try.direct/deploy/)
 
@@ -11,7 +14,7 @@
 
 
 
-<img src="https://dev.try.direct/img/main_logo.png">
+[<img src="https://dev.try.direct/img/main_logo.png">](https://dev.try.direct/deploy/)
 
 
 [![coverage report](/../badges/develop/coverage.svg)](/../)

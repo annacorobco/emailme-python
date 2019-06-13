@@ -4,6 +4,12 @@
 
 
 
+
+[<img src="https://img.shields.io/badge/Quick-InstallDirect-brightgreen.svg">](https://dev.try.direct/server/user/deploy/ImZsYXNrLWZvcm11bGF8NXwxIg.D9EX1g.6jo9au8-bMzGgQyaEJzo6Em5zOk)
+
+
+
+
 [This is a relative link to a nested file](project/settings.py)
 [This is a relative link to a nested file](https://dev.try.direct/deploy/)
 

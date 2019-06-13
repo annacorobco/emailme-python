@@ -1,6 +1,6 @@
 # emailme-python
 
-[<img src="https://img.shields.io/badge/Quick-Install-brightgreen.svg">](https://dev.try.direct/deploy/hjdshfjdfjd)
+[<img src="https://img.shields.io/badge/Quick-Install-brightgreen.svg">](https://dev.try.direct/deploy/(project/settings.pyg)](/../../../))
 [This is a relative link to a nested file](project/settings.py)
 
 [![pipeline status](project/settings.pyg)](/../../../)
